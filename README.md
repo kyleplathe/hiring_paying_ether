@@ -10,4 +10,4 @@ In this Challenge, I will complete the code that enables my customers to send cr
 
 ## Screen Shot of Streamlit and Ganache
 ![Streamlit App](Images/Screen%20Shot%202022-07-29%20at%208.18.26%20PM.png)
-![Ganache](Screen%20Shot%202022-07-29%20at%208.17.30%20PM.png)
+![Ganache](Images/Screen%20Shot%202022-07-29%20at%208.17.30%20PM.png)
