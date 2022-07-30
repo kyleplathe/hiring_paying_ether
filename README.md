@@ -4,10 +4,10 @@ In this Challenge, I will complete the code that enables my customers to send cr
 
 ## Files
 [cypto_wallet.py](https://github.com/kyleplathe/hiring_paying_ether/blob/main/crypto_wallet.py)
----
+<br>
 [fintech_finder.py](https://github.com/kyleplathe/hiring_paying_ether/blob/main/fintech_finder.py)
----
+<br>
 
 ## Screen Shot of Streamlit and Ganache
 ![Streamlit App](Images/Screen%20Shot%202022-07-29%20at%208.18.26%20PM.png)
-![Ganache](Images/Screen%20Shot%202022-07-29%20at%208.17.30%20PM.png)
+![Ganache](Screen%20Shot%202022-07-29%20at%208.17.30%20PM.png)
